@@ -1,0 +1,22 @@
+Hello from Bangkok today! Wish you were here :)
+
+<insert bangkok image>
+
+This tutorial is the first in a multipart series where we explore the Kandy SMS API from the point of someone interested in using an SMS API and is just starting out. We will also explore the following:
+- API limitations/requirements
+- Usage of API in NodeJS, C++, Python or other programming languages
+- Usage of API for processors other than x86 (Intel) 
+- Usage of API for IOT / embedded hardware applications 
+- Just want to send a @#^!&%&#@^ing SMS to a cell phone without confusing documentation or unanswered emails from support or having to create 50 lines of code just to test a single API
+
+An additional goal of this series is to help the non-developers with the following:
+Thought process of a developer
+Evolution of code as it matures
+Development tools common to 2017 development environments (Linux environment is different from Windows from MacOS)
+
+
+For those of you exploring Raspberry Pi or simply just Python and are interested in getting started with Kandy’s APIs, I’ve created a cut-and-paste library for quick plug and play usage. 
+
+This blog is the first in a series where I will step through graduate upgrades of the code base and cover the reasoning as to why certain upgrades were made to the codebase. My hope is that this will help you understand code development at an enterprise level as well as inspire you to be able to identify how to improve the coding process.
+
+
