@@ -12,14 +12,21 @@ This tutorial is the first in a multipart series where we explore an API from th
 An additional goal of this series is to help the non-developers with the following:
 - Thought process of a developer
 - Evolution of code as it matures
-- Development tools common to 2017 development environments (Linux environment is different from Windows is different from MacOS is different from embedded)
-- 
+- Development tools common to 2017 development environments (Linux environment is different from Windows is different from MacOS is different from embedded) 
+- Development methodologies - A lot has changed over the last decade! 
 
-My goal is to cover as many languages and hardware combinations as possible so that you can see the same code in multiple environments thus providing a well rounded view of how the code changes from platform to platform as well as the necessary tools. For the different types of code, I have split up the code in the following phases to 
+My goal is to cover as many languages and hardware combinations as possible so that you can see the same code in multiple environments thus providing a well rounded view of how the code changes from platform to platform as well as the necessary tools. For the different stages of code, I have split up the tutorials into the following phases:
+- Phase 1 - Quick and dirty code with pop-up debugging
+- Phase 2 - Move code into a function
+- Phase 3 - Add debug & error reporting features
+- Phase 4 - Move function into repository management system
 
 Kandy SMS API - Phase 1 - Python - https://github.com/wndsrfr21/KandySMSPython
+Kandy SMS API - Phase 2 - Python - 
+Kandy SMS API - Phase 3 - Python - 
+Kandy SMS API - Phase 4 - Python - 
 Kandy SMS API - Phase 1 - NodeJS - 
 Kandy SMS API - Phase 1 - C++ - TBA
-Kandy SMS API - Phase 1 - HTTP Interface w/ Webtask.io - 
+Kandy SMS API - Phase 1 - HTTP Interface w/ Webtask.io - https://github.com/wndsrfr21/Kandy-SMS-NodeJS-Webtask.io
 Kandy SMS API Library - C++ - https://github.com/aharshac/KandyCpp/wiki
-Kandy SMS API in Python w/ Facial Recognition - TBA
+Kandy SMS API in Python w/ OpenCV Facial Recognition - TBA
