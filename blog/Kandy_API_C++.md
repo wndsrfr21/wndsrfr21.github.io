@@ -10,4 +10,9 @@ Link to the full library and the tutorial: https://github.com/aharshac/KandyCpp/
 
 And finally, a quick video showing what you should expect to see when copy/pasting the commands from the tutorial above.
 
-<insert video>
+(https://www.youtube.com/watch?v=ll72D3Of3PQ&feature=youtu.be)
+
+Note that the video was created for Ubuntu Linux and if you are using a Mac, the steps should be the same where you type "cmake ." to create the necessary compiler files for Make, then type "make" to create the executable file within the /bin directory:
+- cmake . 
+- make
+- /bin/sendsms
