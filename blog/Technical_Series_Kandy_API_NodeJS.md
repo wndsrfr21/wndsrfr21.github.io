@@ -3,7 +3,7 @@ This is the NodeJS version of the Kandy SMS API tutorial that we started on with
 
 The code base is straightforward and nothing too fancy but there is enough code for you to fire off an SMS from the Kandy SMS API in NodeJS. and I’ve included a video overview showing how simple it is to copy/paste the tutorial and get to a working Kandy SMS example. 
 
-Just make sure to insert your API keys and cell number into the sms_test.cpp file like in the image below.
+Just make sure to insert your API keys and cell number into the .JS file like in the image below.
 
 http://i.imgur.com/EMBhBoh.png
 
