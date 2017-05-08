@@ -21,7 +21,7 @@ My goal is to cover as many languages and hardware combinations as possible so t
 - Phase 3 - Add debug & error reporting features
 - Phase 4 - Move function into repository management system
 
-- Kandy SMS API - Phase 1 - Python - Blog Link(https://github.com/wndsrfr21/KandySMSPython) & Code Link(https://github.com/wndsrfr21/Kandy_SMS_Python/blob/master/Kandy_SMS_Python_Phase_1_Code)
+- Kandy SMS API - Phase 1 - Python - Blog Link(https://github.com/wndsrfr21/wndsrfr21.github.io/blob/master/blog/Kandy_API_Python_Phase_1_Blog.md) & Code Link(https://github.com/wndsrfr21/Kandy_SMS_Python/blob/master/Kandy_SMS_Python_Phase_1_Code)
 - Kandy SMS API - Phase 2 - Python - Blog Link() & Code Link() 
 - Kandy SMS API - Phase 3 - Python - Blog Link() & Code Link() 
 - Kandy SMS API - Phase 4 - Python - Blog Link() & Code Link() 
