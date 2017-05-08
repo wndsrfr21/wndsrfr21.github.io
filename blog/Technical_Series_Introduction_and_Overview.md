@@ -32,6 +32,6 @@ My goal is to cover as many languages and hardware combinations as possible so t
 - Kandy SMS API - Phase 1 - iOS - Blog Link() & Code Link()
 - Kandy SMS API - Phase 1 - Swift - Blog Link() & Code Link()
 - Kandy SMS API - Phase 1 - Android - Blog Link() & Code Link()
-- Kandy SMS API - Phase 1 - HTTP Interface w/ Webtask.io - Blog Link() & Code Link()
+- Kandy SMS API - Phase 1 - HTTP Interface w/ Webtask.io - Blog Link(https://github.com/wndsrfr21/Kandy_SMS_NodeJS_Webtask.io/blob/master/README.md) & Code Link(https://github.com/wndsrfr21/Kandy_SMS_NodeJS_Webtask.io/blob/master/kandySMSnodeJSWebtask.js)
 - Kandy SMS API - Python w/ OpenCV Facial Recognition - Blog Link(https://github.com/wndsrfr21/wndsrfr21.github.io/blob/master/blog/Kandy_SMS_API_Python_%2B_OpenCV_Facial_Recognition) & Code Link()
 - Kandy SMS API - Python w/ Raspberry Pi & Push Button & LED - Blog Link() & Code Link()
